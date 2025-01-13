@@ -37,6 +37,8 @@ Total de parâmetros: 18,315,845 (69.87 MB) /
 Parâmetros treináveis: 16,057,861 (61.26 MB) / 
 Parâmetros não-treináveis: 2,257,984 (8.61 MB) /
 
+![Proj](https://github.com/user-attachments/assets/12c5cc7f-03a1-4dd8-a70b-450c653ddc11)
+
 ### 3. Resultados
 
 O conjunto de teste teve boa acurácia e perdas aceitáveis, apesar de desempenho um pouco inferior ao conjunto de treino.
