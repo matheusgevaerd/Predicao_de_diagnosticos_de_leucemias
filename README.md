@@ -7,7 +7,7 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 
-- [Link para o código](https://github.com/matheusgevaerd/Predicao_de_diagnosticos_de_leucemias_por_meio_da_analise_de_laminas_de_sangue_periferico/blob/main/Predic%CC%A7a%CC%83o_de_diagno%CC%81sticos_de_leucemias_por_meio_da_ana%CC%81lise_de_la%CC%82minas_de_sangue_perife%CC%81rico%20(1).ipynb)).
+- [Link para o código](https://github.com/matheusgevaerd/Predicao_de_diagnosticos_de_leucemias_por_meio_da_analise_de_laminas_de_sangue_periferico/blob/main/Predic%CC%A7a%CC%83o_de_diagno%CC%81sticos_de_leucemias_por_meio_da_ana%CC%81lise_de_la%CC%82minas_de_sangue_perife%CC%81rico%20(1).ipynb).
 
 ---
 
